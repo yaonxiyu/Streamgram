@@ -1,0 +1,6 @@
+TgCrypto
+requests
+ffmpeg-python
+python-dotenv
+pytgcalls==3.0.0.dev12
+git+https://github.com/pyrogram/pyrogram@master
